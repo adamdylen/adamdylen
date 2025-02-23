@@ -2,6 +2,7 @@
 
 🧑‍💻 Passionate about technology and innovation<br/>
 📚 Studying Information Systems at Örebro University, Sweden<br/>
+🌍 Exchange Student at University of Zurich & ETH Zürich, Switzerland (Spring 2025)<br>
 ☁️ Currently learning about Azure
 
 
